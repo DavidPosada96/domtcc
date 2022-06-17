@@ -1,9 +1,17 @@
-//ENTRADAS == VARIABLES
-var nombre="JAMES RODRIGUEZ"
-
-if(true){
-    var nombre="Lucho diaz"
+let producto1={
+    nombre: 'Guitarra Fender', 
+    referencia: 'stratocaster' ,
+    precio: 1500000 , 
+    cantidad: null ,
+    foto: 'url' ,
+    descripcion: 'guitarra electrica'
 }
-console.log(`hola ${nombre}`)
-console.log("hola")
-console.log("adios")
+
+let producto2={
+    nombre: 'Guitarra Fender', 
+    referencia: 'Telecaster' ,
+    precio: 1300000 , 
+    cantidad: null ,
+    foto: 'url' ,
+    descripcion: 'guitarra electrica'
+}
